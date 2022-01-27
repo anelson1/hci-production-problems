@@ -7,3 +7,16 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 /* Begin site styles below */
+h1 {
+   font-family: 'Rokkitt', serif;
+   font-size: 2em;
+   margin: 1.5em;
+   text-align: center;
+}
+
+p {
+   font-family: 'Roboto', sans-serif;
+   font-size: 1em;
+   margin-left: 1em;
+   margin-right: 1em;
+}
