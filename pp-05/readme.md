@@ -16,18 +16,18 @@ for your first (and second) round of usability testing.
 
 * URLs for the usability checklists you’ve found:
 
-1.
-2.
+1. https://en.ryte.com/magazine/usability-checklist-for-successful-websites
+2. https://teamsuccess.io/UX
 
 * Your team’s condensed ten-item, must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Follow WCAG guidelines
+2. Content is readable without CSS
+3. Navigation is consistent
+4. No links are broken
+5. Loads quickly
+6. JavaScript is used sensibly 
+7. Typography is consistent 
+8. Links are clearly laid out
+9. Good contrast between fore and background
+10. Site is responsive (works well on mobile and desktop)
